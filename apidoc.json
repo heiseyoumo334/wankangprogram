@@ -1,0 +1,8 @@
+{
+  "name": "万康医药小程序接口APi",
+  "version": "0.1.0",
+  "description": "接口",
+  "title": "APIDOC接口",
+  "url" : "http://localhost:8082/",
+  "sampleUrl":"http://localhost:8082/"
+}
